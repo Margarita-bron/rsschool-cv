@@ -21,7 +21,7 @@
    - **Location:** Minsk, Belarus
    - **Email:** go.to.mychannel745@gmail.com
 ## **About Me:**
-I am studying at a technical university majoring in automated information processing systems and want to try a new interesting direction in IT.
+   I am studying at a technical university majoring in automated information processing systems and want to try a new interesting direction in IT.
 ## Soft Skills:
  - Flexibility
  - Critical thinking
