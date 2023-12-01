@@ -85,6 +85,12 @@ body {
     color: #50322c;
     font-size: 40px;
     font-weight: 500;
+    position: relative;
+}
+
+.second-name{
+    position: absolute;
+    margin-right: 606px;
 }
 
 .nav-link{
