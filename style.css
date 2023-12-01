@@ -73,3 +73,30 @@ body {
     gap: 30px;
 }
 
+.my-photo{
+    z-index: 2;
+    position: relative;
+    width: 400px;
+    height: 600px;
+}
+
+.name{
+    font-family: 'Montserrat', sans-serif;
+    color: #50322c;
+    font-size: 40px;
+    font-weight: 500;
+}
+
+.nav-link{
+    color: #50322c;
+    font-weight: 400;
+    font-size: 20px;
+    border-bottom: 1.5px solid #50322c;
+}
+
+.navigation{
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    gap: 70px;
+}
